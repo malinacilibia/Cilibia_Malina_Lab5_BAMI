@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SkS0jHDEiq+34SydbPacYTAZprTgCWHgOFNVqmJMeg4=",
+  "Source": "RiskClasificationWebAPI",
+  "BasePath": "_content/RiskClasificationWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
